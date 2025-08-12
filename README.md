@@ -165,7 +165,6 @@ TDA-Stock-Analysis/
 
 - [Ripser Documentation](https://ripser.scikit-tda.org/)
 - [Persim Documentation](https://persim.scikit-tda.org/)
-- [TDA in Finance Research](https://github.com/ShawhinT/YouTube-Blog/tree/main/TDA)
 
 ## 🤝 Contributing
 
