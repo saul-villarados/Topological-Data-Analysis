@@ -2,6 +2,10 @@
 
 **Topological Data Analysis for Financial Time Series** 🚀
 
+<img width="1440" height="640" alt="TDA-PLOT" src="https://github.com/user-attachments/assets/d3b6c27d-a814-4de0-b2d3-3712909074ae" />
+
+
+
 This project applies Topological Data Analysis (TDA) to analyze stock market data using persistent homology and Wasserstein distances to detect market anomalies and crashes.
 
 ## 🎯 What it does
@@ -88,6 +92,11 @@ print("✅ TDA analysis plot saved to img/TDA-PLOT.png")
 
 print("🎉 Analysis complete! Check the img/ folder for results.")
 ```
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8da8c6d0-5921-457a-8c88-2f6e24b8748b" />
+
+
+
 
 ## 📁 Project Structure
 
